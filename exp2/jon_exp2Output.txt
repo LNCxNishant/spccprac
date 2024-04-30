@@ -1,0 +1,27 @@
+Line No.	Token No.	Token Type	Value
+1			0		Keyword		int
+1			1		Identifier		a
+1			2		Special Symbol	;
+2			3		Keyword		float
+2			4		Identifier		b
+2			5		Digit		1
+2			6		Digit		0
+2			7		Digit		2
+2			8		Special Symbol	;
+3			9		Keyword		char
+3			10		Identifier		ch
+3			11		Identifier		z
+3			12		Special Symbol	;
+4			13		Keyword		char
+4			14		Identifier		d
+4			15		Identifier		strings
+4			16		Special Symbol	;
+5			17		Keyword		int
+5			18		Identifier		d
+5			19		Identifier		a
+5			20		Operator	*
+5			21		Identifier		b
+5			22		Special Symbol	;
+6			23		Identifier		name
+6			24		Special Symbol	;
+7			25		Identifier		END

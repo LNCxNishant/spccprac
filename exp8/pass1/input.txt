@@ -1,0 +1,17 @@
+** MACRO **
+** MATH **
+** ar 5,3
+** sr 5,4
+** MEND **
+** MACRO **
+** MUL **
+** mr 5,3
+** MEND **
+pg1 START 0
+** USING *,15
+** 1 1,FIVE
+** MATH **
+FIVE DC H'5'
+** MATH **
+** MUL **
+** END **
